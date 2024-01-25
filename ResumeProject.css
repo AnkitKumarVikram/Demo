@@ -1,0 +1,119 @@
+*body {
+    margin: 0;
+    padding: 0;
+}
+
+.border {
+    border: 2px solid black;
+    width: 800px;
+    padding: 5px;
+}
+
+.container {
+    background-color: black;
+    width:400px;
+    height:100%;
+    display: inline-block;
+}
+
+.container1 {
+    text-align: center;
+    background-color: blue;
+}
+
+.logo {
+    border-radius: 50%;
+}
+
+.logo img {
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+.name h2 {
+    color: white;
+    margin: 5px;
+}
+
+.title p {
+    color: white;
+    font: bold;
+    margin: 2px;
+}
+
+.fav a img {
+    height: 15px;
+    width: 60px;
+    color: white;
+    padding: 10px;
+}
+
+.container2 {
+    background-color: #00000097;
+    color: white;
+    margin: 25px;
+    padding: 25px;
+}
+
+.contact h2 {
+    font-size: 25px;
+    border-bottom: 2px solid white;
+    margin: 0px;
+    padding: 0px;
+}
+
+.contact .phone h3 {
+    color: white;
+    padding-left: 30px;
+    /* margin-bottom: 0px; */
+}
+
+.contact .phone p {
+    color: #ffffff4d;
+    font-size: 15px;
+    padding-left: 30px;
+    
+}
+
+.contact .email h3 {
+    color: white;
+    padding-left: 30px;
+    /* margin-bottom: 2px; */
+}
+
+.contact .email p {
+    color: #ffffff4d;
+    font-size: 15px;
+    padding-left: 30px;
+}
+
+.skills h2{
+    font-size: 25px;
+    border-bottom: 2px solid white;
+    margin: 0px;
+    padding: 0px;
+}
+
+.skills p {
+    padding-left: 30px;
+}
+
+.certificate h2 {
+    border-bottom: 2px solid white;
+}
+
+.certificate p {
+    padding-left: 30px;
+}
+
+.container3 {
+    
+    position: relative;
+    top: -908px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: -5px;
+}
+
